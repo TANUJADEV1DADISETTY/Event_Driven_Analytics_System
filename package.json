@@ -1,0 +1,9 @@
+{
+    "name": "cqrs-ecommerce-analytics",
+    "private": true,
+    "workspaces": [
+        "command-service",
+        "consumer-service",
+        "query-service"
+    ]
+}
