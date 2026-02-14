@@ -1,0 +1,14 @@
+{
+    "files": [],
+    "references": [
+        {
+            "path": "./command-service"
+        },
+        {
+            "path": "./consumer-service"
+        },
+        {
+            "path": "./query-service"
+        }
+    ]
+}
